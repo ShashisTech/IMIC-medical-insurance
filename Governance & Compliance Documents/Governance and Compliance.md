@@ -219,25 +219,9 @@ The system must be tested for:
 
 ***
 
-# **11. UI/UX Governance**
+# **11. Risk Management**
 
-### **11.1 Look & Feel Requirements**
-
-*   Uniform headers, footers, navigation
-*   Consistent color themes, typography & button styles
-*   Breadcrumb navigation for deep screens
-
-### **11.2 Accessibility Compliance**
-
-*   WCAG 2.1 AA
-*   Screen reader support
-*   Clear labels and input validation messages
-
-***
-
-# **12. Risk Management**
-
-### **12.1 Key Risks & Mitigation**
+### **11.1 Key Risks & Mitigation**
 
 | Risk                    | Impact | Mitigation                         |
 | ----------------------- | ------ | ---------------------------------- |
@@ -249,7 +233,7 @@ The system must be tested for:
 
 ***
 
-# **13. Conclusion**
+# **12. Conclusion**
 
 This Governance & Compliance framework ensures the IMIC application ecosystem:
 
@@ -257,4 +241,5 @@ This Governance & Compliance framework ensures the IMIC application ecosystem:
 *   Protects customer data and financial information
 *   Follows secure, transparent, and audit-friendly workflows
 *   Provides a structured environment for trainee engineers to deliver industry-grade software
+
 
